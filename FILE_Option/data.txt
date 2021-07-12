@@ -1,0 +1,5 @@
+!!!!
+来试一下能不能复制文件
+应该可以的
+也不知道说什么，随便打两行字吧
+No matching function for call to 'fopen'
